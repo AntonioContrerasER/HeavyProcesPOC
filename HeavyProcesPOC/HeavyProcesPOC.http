@@ -1,0 +1,6 @@
+@HeavyProcesPOC_HostAddress = http://localhost:5138
+
+GET {{HeavyProcesPOC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
